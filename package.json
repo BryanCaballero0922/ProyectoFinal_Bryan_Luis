@@ -1,0 +1,23 @@
+{
+  "name": "proyectofinal_bryan_luis",
+  "version": "1.0.0",
+  "description": "Proyecto final de clase",
+  "scripts": {
+    "start": "parcel public/index.html",
+    "build": "parcel build public/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.6",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BryanCaballero0922/ProyectoFinal_Bryan_Luis.git"
+  }
+}
